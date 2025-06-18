@@ -35,16 +35,16 @@ The dataset contains 422,937 news headlines categorized into 4 topics:
 ## 📊 Screenshots
 
 ### 🔍 PyLDAvis Topic Visualization
-![Screenshot 1](assets/Screenshot%202025-06-19%20012316.png)
+![Screenshot 1](Screenshot%202025-06-19%20012316.png)
 
 ### 📌 K-Means Cluster Plot (PCA)
-![Screenshot 2](assets/Screenshot%202025-06-19%20012341.png)
+![Screenshot 2](Screenshot%202025-06-19%20012341.png)
 
 ### ☁️ Word Cloud of News Topics
-![Screenshot 3](assets/Screenshot%202025-06-19%20012350.png)
+![Screenshot 3](Screenshot%202025-06-19%20012350.png)
 
 ### 📈 Coherence Score Optimization Plot
-![Screenshot 4](assets/Screenshot%202025-06-19%20012744.png)
+![Screenshot 4](Screenshot%202025-06-19%20012744.png)
 
 ---
 
